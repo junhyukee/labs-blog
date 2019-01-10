@@ -4,59 +4,45 @@ date: "2019-01-07"
 featuredImage: './featured.jpg'
 ---
 
-To be filled
+First week of labs...
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+## Accomplishments
 
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
+This week was a lot of getting used to the environment I would be working in for the next few weeks. I have worked with others before, but it was at a much smaller scale, and things were not as professional and it was more of a casual experience. Working in a semi-Agile environment took a bit of getting used to, referring to Trello, having constant meetings, but I think I have gotten the hang of it and have slowly began enjoying having a more organized workspace. I personally did more work on the Front-End side, working closely with other team mates to create React components that we would be using in the future. Although a lot of the data pulled were either placeholders or mock data, laying out the components, I believe, provided a lot of value in terms of thinking of the users and how they would interact with the app. I also struggled to figure out what was wrong with our Django + AWS deployment as well as our Django + React integration, where the React webpack files automatically feed into the Django template, however, the team decided to focus on getting actual work done rather than struggling more with configuration. All in all, I would say this was a good week in terms of getting started, but in the future weeks I would like to see myself and my team members accomplish a lot more given a week's worth of work.
 
-*   Morbi sit amet turpis a purus
-*   Etiam tempor ultricies mi
-    *   Maecenas auctor enim a volutpat mattis
-*   Sed urna justo, scelerisque consectetur pharetra vitae
+### Front End
+- Landing Page
+    - [Github](https://github.com/Lambda-School-Labs/labs9-stock-trainer/pull/2)
+    - [Trello](https://trello.com/c/xysMNFxz/20-design-a-front-end-landing-page)
+- ESLint Config
+    - [Github](https://github.com/Lambda-School-Labs/labs9-stock-trainer/pull/8)
+    - [Trello](https://trello.com/c/5nIHTAad/33-set-up-eslint)
+- React Components
+    - [Github](https://github.com/Lambda-School-Labs/labs9-stock-trainer/pull/10)
+    - [Trello](https://trello.com/c/r83Q84C0/34-create-basic-components-in-react)
+- README.md Setup
+    - [Github](https://github.com/Lambda-School-Labs/labs9-stock-trainer/pull/11)
+    - [Trello](https://trello.com/c/ptlDctTH/12-readme)
+- UserInfo Page
+    - [Github](https://github.com/Lambda-School-Labs/labs9-stock-trainer/pull/15)
+    - [Trello](https://trello.com/c/r83Q84C0/34-create-basic-components-in-react)
 
-Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+### Back End
+- User Model
+    - [Github](https://github.com/Lambda-School-Labs/labs9-stock-trainer/pull/17)
+    - [Trello](https://trello.com/c/cYgwwCoB/22-setup-user-accounts)
 
-### Pellentesque consectetur facilisis venenatis
+### Attempted
+- Django link with React
+    - [Trello](https://trello.com/c/BSnNCkn3/42-linking-django-react)
+- AWS Deploy
+    - [Trello](https://trello.com/c/LPO4yVAd/30-deploy-to-aws)
 
-Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus [elementum dapibus nibh](https://google.com), eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
+## Detailed Analysis
+Django link with React
 
-> Quisque tempor nulla turpis, ut placerat arcu lobortis nec. Aenean sed vehicula nisi. Nullam vitae placerat enim. Etiam hendrerit enim vel tempor fermentum. Morbi rutrum euismod ipsum a luctus.
 
-Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.
+## Reflection
 
-### Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et
-
-Morbi posuere facilisis eros vel euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam malesuada dapibus dolor non cursus. Sed in turpis justo. Cras sed hendrerit nulla. Sed ornare, leo et suscipit tincidunt, justo diam sollicitudin risus, vitae vulputate nulla augue et lacus.
-
-1.  Morbi posuere facilisis
-2.  Pellentesque habitant morbi tristique
-3.  Etiam malesuada dapibus
-
-Ut vel ligula ante. Proin quis metus magna. Nulla nec dui vulputate, semper orci in, sagittis dolor. Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam.
-
-#### Sed ac orci a dolor venenatis vulputate
-
-Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
-
-![Space](./space.jpg)
-
-Pellentesque consectetur facilisis venenatis. Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus elementum dapibus nibh, eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
-
-##### Nulla nec dui vulputate, semper orci in, sagittis dolor
-
-Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam. Sed ac orci a dolor venenatis vulputate. Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
-
-```javascript
-$(document).ready(function() {
-    console.log('More jQuery, wow!')
-})
-```
-
-###### ras aliquet ipsum ut enim pellentesque, id varius quam placerat
-
-Maecenas non scelerisque leo. Sed id purus fringilla, consequat magna non, faucibus neque. Cras ornare nisi a lectus ultricies convallis. Integer tristique dictum eros, et elementum ante consectetur eget. Phasellus sollicitudin est vestibulum suscipit pellentesque. Duis in eros cursus magna laoreet aliquam vel a lectus. Nulla ut nisi vitae ipsum sollicitudin vestibulum. Aenean sit amet mattis odio. Vestibulum ultrices sed ipsum nec pretium. Integer non turpis nunc. Praesent tincidunt tincidunt alique
-
-Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum.
