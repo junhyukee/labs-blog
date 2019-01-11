@@ -1,7 +1,7 @@
 ---
 title: Week 1
 date: "2019-01-07"
-featuredImage: './featured.jpg'
+featuredImage: './featured.png'
 ---
 
 First week of labs...
@@ -41,8 +41,17 @@ This week was a lot of getting used to the environment I would be working in for
     - [Trello](https://trello.com/c/LPO4yVAd/30-deploy-to-aws)
 
 ## Detailed Analysis
-Django link with React
 
+#### Building out React Components
+
+Working on React is always fun, building out components that can be reusable is super powerful. I made a few components throughout this week and although most of them are not connected to the back-end, I tried my best to envision how the data would look like in order to best mock how the components should look with data from our API. For example, the Grpah and UserInfo components below have mocked data that try to replicate how data would be received from our back-end or third party APIs. I think this is important to do for a seamless transition into integrating the front-end with the back-end, as the components should be ready to handle the rendering and the data can be set via `setState` and `componentDidMount` on the component. Overall, I had fun scoping out React components and I would like to work more on how the data flows between components and how we can do that most efficiently in the future weeks.
+
+![Graph](Graph.png)
+
+![AccountSettings](AccountSettings.png)
+
+![UserInfo](UserInfo.png)
 
 ## Reflection
 
+Working with a bigger team made me realize that holding meetings would be a very important part of our workflow. Making sure that everyone is on the same page, giving updates to what team members are working on, and figuring out which team members should do which tasks were some of the topics during our meetings. There were many ideas being shared and usually our team could come to agree on a final decision on most ideas being shared. In terms of the friction of the group, I think it was mostly due to everyone not being too familiar with each other and different personality traits of the team members. I personally tried to pair program or get in a 1:1 call with team members that were doing similar work to what I was doing, so that I could get a better understanding of the team member's work style and also to get more comfortable with my team. I tried to stay updated on different statuses within the group (deployment, Django/React link) and tried to help out as much as I could. Unfortunately, we came across a lot of issues with deployment and also making Django render the bundled React files, so that put us a bit behind on schedule, but I'm confident that we'll be able to work through and be where we should be.
