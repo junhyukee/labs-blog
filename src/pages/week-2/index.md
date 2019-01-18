@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 2
 date: "2019-01-14"
 featuredImage: './featured.png'
 ---
